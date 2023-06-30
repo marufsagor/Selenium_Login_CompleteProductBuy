@@ -1,2 +1,2 @@
 # Selenium_Login_CompleteProductBuy
-Selenium-Login_AddToCard_OpenCard_Checkout_InputInformation_Continue_Finish_Success
+Selenium-Login_AddToCard_OpenCard_Checkout_InputInformation_Continue_Finish_Success|SauceDemo.com
